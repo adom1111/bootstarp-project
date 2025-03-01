@@ -1,7 +1,12 @@
 .container{
     margin-bottom: 90px;
+    padding: 50px;
 }
-
+.carousel-inner{
+    text-transform: 10px;
+    overflow: visible;
+    flex-wrap: wrap;
+}
 .orange-bg{
     background-color: #fceae8;
     border-radius: 10px;
@@ -43,4 +48,14 @@
 .aaaa{
     margin-bottom: 90px;
     align-items: center;
+}
+
+.container-1{
+    background-color: cyan;
+
+}
+.card-footer{
+    align-items: center;
+    font-size: small;
+
 }
